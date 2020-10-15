@@ -19,7 +19,7 @@ Travis CI badge here
 - Restful API
 - MLAB
 - Travis CI
--NPM
+- NPM
 
 ---
 
