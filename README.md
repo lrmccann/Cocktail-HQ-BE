@@ -28,7 +28,7 @@ Cocktail HQ is your one stop shop to finding everything cocktail! Collaborating 
 ---
 
 ## Credits
--Logan McCann
+- Logan McCann
 - Juan Osiris
 - Samantha Buerrete
 
